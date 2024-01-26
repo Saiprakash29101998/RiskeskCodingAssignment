@@ -1,0 +1,17 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "Riskesk Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Prakash Munavath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "riskesk"
+  ]
+}
